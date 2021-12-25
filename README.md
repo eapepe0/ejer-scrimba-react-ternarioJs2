@@ -1,2 +1,2 @@
 # ejer-scrimba-react-ternarioJs
-Created with CodeSandbox
+![captura](https://i.imgur.com/AdODJGZ.png)
